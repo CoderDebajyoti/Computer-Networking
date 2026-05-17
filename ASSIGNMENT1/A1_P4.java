@@ -1,4 +1,5 @@
-import java.util.Scanner;
+// Q4: Write a Java program to check if a given IP address is a Public or Private IP address.
+ import java.util.Scanner;
 
 public class A1_P4 {
     public static void main(String[] args) {
@@ -16,3 +17,9 @@ public class A1_P4 {
             System.out.println("Public IP");
     }
 }
+
+/*
+Sample Output:
+Enter IP Address: 192.168.1.1
+Private IP
+*/

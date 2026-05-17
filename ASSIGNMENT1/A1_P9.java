@@ -1,3 +1,4 @@
+// Q9: Write a Java program to calculate the number of subnets given the number of borrowed bits.
 import java.util.Scanner;
 
 public class A1_P9 {
@@ -12,3 +13,9 @@ public class A1_P9 {
         System.out.println("Number of Subnets: "+subnets);
     }
 }
+
+/*
+Sample Output:
+Enter borrowed bits: 3
+Number of Subnets: 8
+*/

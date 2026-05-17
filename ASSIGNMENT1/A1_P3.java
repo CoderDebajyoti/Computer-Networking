@@ -1,3 +1,4 @@
+// Q3: Write a Java program to determine the class (A, B, C, D, or E) of a given IPv4 address.
 import java.util.Scanner;
 
 public class A1_P3 {
@@ -20,3 +21,9 @@ public class A1_P3 {
             System.out.println("Class E");
     }
 }
+
+/*
+Sample Output:
+Enter IPv4 Address: 192.168.1.1
+Class C
+*/

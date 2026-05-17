@@ -1,3 +1,4 @@
+// Q1: Write a Java program to find the local IP address of the machine.
 import java.net.InetAddress;
 
 public class A1_P1 {
@@ -10,3 +11,8 @@ public class A1_P1 {
         }
     }
 }
+
+/*
+Sample Output:
+IP Address: 192.168.0.102
+*/

@@ -1,3 +1,4 @@
+// Q8: Write a Java program to find the Subnet Mask given the prefix length (CIDR notation).
 import java.util.Scanner;
 
 public class A1_P8 {
@@ -17,3 +18,9 @@ public class A1_P8 {
         System.out.println("Subnet Mask: "+a+"."+b+"."+c+"."+d);
     }
 }
+
+/*
+Sample Output:
+Enter prefix length: 24
+Subnet Mask: 255.255.255.0
+*/

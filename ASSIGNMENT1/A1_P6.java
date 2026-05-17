@@ -1,3 +1,4 @@
+// Q6: Write a Java program to convert a given binary IP address to decimal format.
 import java.util.Scanner;
 
 public class A1_P6 {
@@ -13,3 +14,10 @@ public class A1_P6 {
         }
     }
 }
+
+/*
+Sample Output:
+Enter 4 binary octets:
+11000000 10101000 00000001 00000001
+192.168.1.1
+*/

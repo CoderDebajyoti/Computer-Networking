@@ -1,3 +1,4 @@
+// Q7: Write a Java program to find the Network ID and Broadcast address given an IP address and Subnet Mask.
 import java.util.Scanner;
 
 public class A1_P7 {
@@ -33,3 +34,11 @@ public class A1_P7 {
             System.out.print(broadcast[i]+(i<3?".":""));
     }
 }
+
+/*
+Sample Output:
+Enter IP: 192.168.1.5
+Enter Subnet Mask: 255.255.255.0
+Network ID: 192.168.1.0
+Broadcast: 192.168.1.255
+*/

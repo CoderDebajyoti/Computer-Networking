@@ -1,3 +1,4 @@
+// Q5: Write a Java program to convert a given decimal IP address to binary format.
 import java.util.Scanner;
 
 public class A1_P5 {
@@ -14,3 +15,9 @@ public class A1_P5 {
         }
     }
 }
+
+/*
+Sample Output:
+Enter IP: 192.168.1.1
+11000000 10101000 00000001 00000001
+*/

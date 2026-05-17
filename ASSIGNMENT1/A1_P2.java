@@ -1,3 +1,4 @@
+// Q2: Write a Java program to check if a given IP address is an IPv4 or IPv6 address.
 import java.util.Scanner;
 
 public class A1_P2 {
@@ -14,3 +15,9 @@ public class A1_P2 {
             System.out.println("Invalid IP Address");
     }
 }
+
+/*
+Sample Output:
+Enter IP Address: 192.168.1.1
+IPv4 Address
+*/
