@@ -15,7 +15,7 @@ The project is structured into assignments and utility folders:
  ┣ 📂 ASSIGNMENT3   # Flow Control & Sliding Window (Interactive Implementations)
  ┣ 📂 ASSIGNMENT4   # Core Protocols, Routing Algorithms & Topologies
  ┣ 📂 ASSIGNMENT6   # Advanced Adaptive & Non-Adaptive Routing Protocols
- ┗ 📂 TEST          # Cryptography and security simulations (RSA)
+ ┗ 📂 TEST          # regular test files
 ```
 
 ---
